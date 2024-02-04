@@ -1,0 +1,1 @@
+This kernel aims to visually analyze how diabetes mortality behaves compared to several variables. Furthermore, we will use the Random Forest algorithm to predict mortality depending on these variables. I hope you enjoy it.
